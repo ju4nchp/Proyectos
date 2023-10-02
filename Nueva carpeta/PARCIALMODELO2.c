@@ -40,7 +40,7 @@ int main(){
         printf("le quedan %i intentos\n", i);
         i--;
     }*/
-    /* for(i=2; i>=0; i--){
+    /*for(i=2; i>=0; i--){
         printf("ingrese un numero del 1 al 100\n%i\n", numGen);
         scanf("%i", &num1);
         if(numGen==num1){ //CASO GANADOR
@@ -55,8 +55,7 @@ int main(){
             printf("Ese numero es menor!\n");
         }
         printf("le quedan %i intentos\n", i);
-
-    } */
+    }*/
     printf("TERMINO EL JUEGO");
 }
 
