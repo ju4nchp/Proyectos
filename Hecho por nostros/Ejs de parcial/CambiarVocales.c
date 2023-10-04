@@ -32,5 +32,5 @@ int main() {
             break;
         }
     }
-    printf("%s",&cadena);
+    printf("%s",cadena);
 }

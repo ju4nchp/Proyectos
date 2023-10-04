@@ -8,7 +8,7 @@ int main() {
     do{
         srand(time(NULL));
         op = rand() % 3;
-        printf("\nIngrese su elección! (i= piedra, A= papel, T=tijera):\n", op);
+        printf("\nIngrese su eleccion! (i= piedra, A= papel, T=tijera):\n", op);
         scanf("%c", &usr);
         printf("usted ha seleccionado %c\n", usr);
         if(usr=='i'){
